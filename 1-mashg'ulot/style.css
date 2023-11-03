@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul {
+    display: flex;
+    margin-left: 150px;
+    margin-top: -30px;
+    gap: 50px;
+    list-style: none;
+}
+
+.flex-box {
+    display: flex;
+}
+
+
+.flex-box h4 {
+    margin-left: 120px;
+    margin-top: 120px;
+    color: #666;
+}
+
+.flex-box h1 {
+    margin-left: 120px;
+    font-size: 40px;
+}
+
+.flex-box h5 {
+    margin-left: 120px;
+}
+
+.flex-box div img {
+    margin-left: 400px;
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    margin-left: 130px;
+    color: white;
+    border-radius: 50px;
+    background: #8643DC;
+    border: none;
+}
+
+.flex-box2 h4 {
+    width: 60px;
+    height: 20px;
+    margin-left: 110px;
+    color: #8643DC;
+    font-family: Red Hat Display;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.line {
+    width: 50px;
+    height: 2px;
+    margin-top: -10px;
+    margin-left: 115px;
+    background: #8643DC;
+}
+
+.flex-box2 h2 {
+    margin-left: 110px;
+}
+
+.box-1 img {
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+
+.box-1 h2 {
+    margin-left: 100px;
+}
+
+.box-1 p {
+    margin-left: 100px;
+}
+
+.box {
+    display: flex;
+}
+
+body {
+    background: linear-gradient(180deg, rgba(187, 133, 255, 0.14) 0%, rgba(255, 177, 222, 0.14) 100%);
+
+}
+
+.line1 {
+    width: 50px;
+    height: 2px;
+    margin-top: -10px;
+    margin-left: 115px;
+    background: #8643DC;
+}
+
+.flex-box3 h4 {
+    width: 60px;
+    height: 20px;
+    margin-left: 110px;
+    color: #8643DC;
+    font-family: Red Hat Display;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.flex-box3 h2 {
+    margin-left: 110px;
+}
+
+.line2 {
+    width: 50px;
+    height: 2px;
+    margin-top: -10px;
+    margin-left: 115px;
+    background: #8643DC;
+}
+.flex-box4{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-box4 h4 {
+    width: 60px;
+    height: 20px;
+    margin-left: 110px;
+    color: #8643DC;
+    font-family: Red Hat Display;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.flex-box4 h2 {
+    margin-left: 110px;
+}
+
+.explore  {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.d-flex {
+    display: flex;
+}
